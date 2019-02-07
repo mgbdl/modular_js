@@ -1,0 +1,36 @@
+* {
+  text-align: center;
+}
+
+.hero-unit{
+  border: 1px solid gray;
+  margin: 0 auto;
+  width: 200px;
+  border-radius: 10px;
+  background-color: #eee;
+}
+
+#addPerson {
+  background-color: #bbb;
+  border-radius: 5px;
+}
+
+#people{
+  list-style-type: none;
+}
+
+#people li {
+  border: 1px solid #eee;
+  border-radius: 5px;
+  padding: 0 5px;
+  margin: 0 5px;
+  background-color: #42f477;
+  width: 115px;
+  display: inline-block;
+}
+
+.del {
+  position: relative;
+  float: right;
+  color: black;
+}
