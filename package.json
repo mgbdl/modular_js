@@ -1,0 +1,19 @@
+{
+  "name": "modular_js",
+  "version": "1.0.0",
+  "description": "Some ground rules: - self-containd module   - everything to do with my module is in my module   - no global variables   - if a module manages more than one thing it should be split up - separation of concerns - efficient DOM usage   - very few $(selectors) - no memory leaks   - all events can be unbound",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgbdl/modular_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgbdl/modular_js/issues"
+  },
+  "homepage": "https://github.com/mgbdl/modular_js#readme"
+}
